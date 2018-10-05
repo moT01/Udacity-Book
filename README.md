@@ -1,5 +1,3 @@
-https://udacity-react-book.herokuapp.com/
-
 ## Udacity-Book
 ##### My Reads project for [udacity](https://www.udacity.com)
 ##### Check it out [here](https://udacity-react-book.herokuapp.com/)
